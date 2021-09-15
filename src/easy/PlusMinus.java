@@ -3,15 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package easy.plus_minus;
-
+package easy;
 import java.io.*;
 import java.util.*;
 import java.util.stream.*;
 import static java.util.stream.Collectors.toList;
 
-class Result {
-
+class Result5{
     /*
      * Complete the 'plusMinus' function below.
      *
@@ -41,8 +39,8 @@ class Result {
 
 }
 
-public class Solution {
-    public static void main(String[] args) throws IOException {
+public class PlusMinus {
+        public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
 
         int n = Integer.parseInt(bufferedReader.readLine().trim());
@@ -51,7 +49,7 @@ public class Solution {
             .map(Integer::parseInt)
             .collect(toList());
 
-        Result.plusMinus(arr);
+        Result5.plusMinus(arr);
 
         bufferedReader.close();
     }

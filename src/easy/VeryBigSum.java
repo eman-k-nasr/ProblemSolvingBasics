@@ -3,14 +3,35 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package easy.very_big_sum;
+package easy;
 import java.io.*;
 import java.util.*;
 import java.util.stream.*;
 import static java.util.stream.Collectors.toList;
 
-public class Solution {
-    public static void main(String[] args) throws IOException {
+class Result3{
+
+    /*
+     * Complete the 'aVeryBigSum' function below.
+     *
+     * The function is expected to return a LONG_INTEGER.
+     * The function accepts LONG_INTEGER_ARRAY ar as parameter.
+     */
+
+    public static long aVeryBigSum(List<Long> ar) {
+    // Write your code here
+    Long sum = 0L;
+    for(Long n : ar){
+        sum += n;
+    }
+    System.out.println("big sum: "+sum);
+    return sum;
+    }
+
+}
+
+public class VeryBigSum {
+        public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter("very big sum"));
 
@@ -20,7 +41,7 @@ public class Solution {
             .map(Long::parseLong)
             .collect(toList());
 
-        long result = Result.aVeryBigSum(ar);
+        long result = Result3.aVeryBigSum(ar);
 
         bufferedWriter.write(String.valueOf(result));
         bufferedWriter.newLine();
