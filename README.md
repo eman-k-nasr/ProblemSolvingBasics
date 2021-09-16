@@ -7,3 +7,4 @@
 1. [very big sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) 
 1. [diagonal-difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)
 1. [plus minus](https://www.hackerrank.com/challenges/plus-minus/problem)
+1. [staircase](https://www.hackerrank.com/challenges/staircase/problem)
