@@ -10,3 +10,4 @@
 1. [staircase](https://www.hackerrank.com/challenges/staircase/problem)
 1. [birthday candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)
 1. [time conversion](https://www.hackerrank.com/challenges/time-conversion/problem)
+1. [grading students](https://www.hackerrank.com/challenges/grading/problem)
