@@ -9,6 +9,11 @@ import java.util.*;
 import java.util.stream.*;
 import static java.util.stream.Collectors.toList;
 
+/*
+sample input 
+6
+-4 3 -9 0 4 1
+*/
 class Result5{
     /*
      * Complete the 'plusMinus' function below.
