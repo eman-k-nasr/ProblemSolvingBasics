@@ -13,3 +13,4 @@
 1. [grading students](https://www.hackerrank.com/challenges/grading/problem)
 1. [apples oranges](https://www.hackerrank.com/challenges/apple-and-orange/problem)
 1. [number line jumbs](https://www.hackerrank.com/challenges/kangaroo/problem)
+1. [find median](https://www.hackerrank.com/challenges/find-the-median/problem)
