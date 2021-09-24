@@ -18,3 +18,4 @@
 1. [lonely integer](https://www.hackerrank.com/challenges/lonely-integer/problem)
 1. [between two sets](https://www.hackerrank.com/challenges/between-two-sets/problem)
 1. [breaking records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)
+1. [subarray divisions](https://www.hackerrank.com/challenges/the-birthday-bar/problem)
