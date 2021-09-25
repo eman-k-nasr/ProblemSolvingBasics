@@ -20,3 +20,4 @@
 1. [breaking records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)
 1. [subarray divisions](https://www.hackerrank.com/challenges/the-birthday-bar/problem)
 1. [divisible sum pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)
+1. [migratory birds](https://www.hackerrank.com/challenges/migratory-birds/problem)
