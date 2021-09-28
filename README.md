@@ -22,3 +22,4 @@
 1. [divisible sum pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)
 1. [migratory birds](https://www.hackerrank.com/challenges/migratory-birds/problem)
 1. [day of the programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)
+1. [bill division](https://www.hackerrank.com/challenges/bon-appetit/problem)
