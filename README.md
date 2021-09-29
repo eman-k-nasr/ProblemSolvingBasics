@@ -24,3 +24,4 @@
 1. [day of the programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)
 1. [bill division](https://www.hackerrank.com/challenges/bon-appetit/problem)
 1. [sales by match](https://www.hackerrank.com/challenges/sock-merchant/problem)
+1. [drawing book](https://www.hackerrank.com/challenges/drawing-book/problem)
