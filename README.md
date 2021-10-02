@@ -26,3 +26,4 @@
 1. [sales by match](https://www.hackerrank.com/challenges/sock-merchant/problem)
 1. [drawing book](https://www.hackerrank.com/challenges/drawing-book/problem)
 1. [counting valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)
+1. [electronic shop](https://www.hackerrank.com/challenges/electronics-shop/problem)
