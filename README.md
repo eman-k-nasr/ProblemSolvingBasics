@@ -27,3 +27,4 @@
 1. [drawing book](https://www.hackerrank.com/challenges/drawing-book/problem)
 1. [counting valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)
 1. [electronic shop](https://www.hackerrank.com/challenges/electronics-shop/problem)
+1. [cat and mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)
