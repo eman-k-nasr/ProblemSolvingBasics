@@ -7,7 +7,7 @@ package easy.easy15;
 
 import java.io.*;
 import java.util.*;
-
+//4
 public class CatAndMouse {
 
     // Complete the catAndMouse function below.

@@ -7,7 +7,7 @@ package easy.easy15;
 
 import java.io.*;
 import java.util.*;
-
+//3
 public class ElectronicShops {
 
     /*

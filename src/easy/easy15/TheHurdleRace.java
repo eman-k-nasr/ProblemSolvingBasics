@@ -9,7 +9,7 @@ import java.util.*;
 import java.util.stream.*;
 import static java.util.stream.Collectors.toList;
 
-class Result27 {
+class Result5 {
     /*
     sample input 
     5 7
@@ -54,7 +54,7 @@ public class TheHurdleRace {
             .map(Integer::parseInt)
             .collect(toList());
 
-        int result = Result27.hurdleRace(k, height);
+        int result = Result5.hurdleRace(k, height);
         System.out.println("result: "+result);
         bufferedReader.close();
     }

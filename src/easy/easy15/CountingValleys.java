@@ -2,7 +2,7 @@ package easy.easy15;
 
 import java.io.*;
 
-class Result25 {
+class Result2 {
 
     /*
      * Complete the 'countingValleys' function below.
@@ -45,7 +45,7 @@ public class CountingValleys {
 
         String path = bufferedReader.readLine();
 
-        int result = Result25.countingValleys(steps, path);
+        int result = Result2.countingValleys(steps, path);
         System.out.println("result: "+result);
         bufferedReader.close();
     }

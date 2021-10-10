@@ -7,7 +7,7 @@ package easy.easy15;
 
 import java.io.*;
 
-class Result21 {
+class Result1 {
 
     /*
      * Complete the 'dayOfProgrammer' function below.
@@ -39,7 +39,7 @@ public class DayOftheProgrammer {
 
         int year = Integer.parseInt(bufferedReader.readLine().trim());
 
-        String result = Result21.dayOfProgrammer(year);
+        String result = Result1.dayOfProgrammer(year);
         System.out.println("day: "+result);
 
         bufferedReader.close();
