@@ -34,3 +34,4 @@
 1. [Utopian tree](https://www.hackerrank.com/challenges/utopian-tree/problem)
 1. [angry professor](https://www.hackerrank.com/challenges/angry-professor/problem)
 1. [beautiful days](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)
+1. [viral advertising](https://www.hackerrank.com/challenges/strange-advertising/problem)
