@@ -10,7 +10,7 @@ import java.util.*;
 import java.util.stream.*;
 import static java.util.stream.Collectors.toList;
 
-class Result26 {
+class Result1 {
 
     /*
      * Complete the 'pickingNumbers' function below.
@@ -55,7 +55,7 @@ public class PickingNumbers {
             .map(Integer::parseInt)
             .collect(toList());
 
-        int result = Result26.pickingNumbers(a);
+        int result = Result1.pickingNumbers(a);
         System.out.println("max num :"+result);
         
         bufferedReader.close();
