@@ -29,3 +29,4 @@
 1. [electronic shop](https://www.hackerrank.com/challenges/electronics-shop/problem)
 1. [cat and mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)
 1. [picking numbers](https://www.hackerrank.com/challenges/picking-numbers/problem)
+1. [the hurdle race](https://www.hackerrank.com/challenges/the-hurdle-race/problem)
