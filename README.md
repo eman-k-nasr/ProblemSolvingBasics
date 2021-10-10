@@ -32,3 +32,4 @@
 1. [the hurdle race](https://www.hackerrank.com/challenges/the-hurdle-race/problem)
 1. [pdf viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)
 1. [Utopian tree](https://www.hackerrank.com/challenges/utopian-tree/problem)
+1. [angry professor](https://www.hackerrank.com/challenges/angry-professor/problem)
