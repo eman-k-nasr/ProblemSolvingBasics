@@ -36,3 +36,4 @@
 1. [beautiful days](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)
 1. [viral advertising](https://www.hackerrank.com/challenges/strange-advertising/problem)
 1. [save the prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem)
+1. [circular rotation array](https://www.hackerrank.com/challenges/circular-array-rotation/problem)
