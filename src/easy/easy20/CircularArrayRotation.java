@@ -15,12 +15,17 @@ import java.util.List;
  */
 public class CircularArrayRotation {
     public static void main(String[] args) {
-    int[] arr = {1, 2, 3};
-    System.out.println("before rotation: "+Arrays.toString(arr));
-    int rightRotations = 2;
+    int[] arr = {1,2,3,4,5};
+//    int rightRotations = 2;
+//    int[] tempArr = new int[arr.length];
+//    for(int i=0; i<arr.length; i++){
+//        tempArr[(i+rightRotations)%arr.length]=arr[i];
+//    }
+//    System.out.println("after rotation: "+Arrays.toString(tempArr));
+    int leftRotations = 2;
     int[] tempArr = new int[arr.length];
     for(int i=0; i<arr.length; i++){
-        tempArr[(i+rightRotations)%arr.length]=arr[i];
+        tempArr[(i+leftRotations+1)%arr.length]=arr[i];
     }
     System.out.println("after rotation: "+Arrays.toString(tempArr));
     }

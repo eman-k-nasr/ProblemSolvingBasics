@@ -38,3 +38,4 @@
 1. [save the prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem)
 1. [circular rotation array](https://www.hackerrank.com/challenges/circular-array-rotation/problem)
 1. [sequence equation](https://www.hackerrank.com/challenges/permutation-equation/problem)
+1. [jumping clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem)

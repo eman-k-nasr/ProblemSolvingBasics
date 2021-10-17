@@ -26,7 +26,7 @@ class Result1 {
 
     public static int pickingNumbers(List<Integer> a) {
     // Write your code here
-        int count = 0;
+    int count = 0;
     int max = 0;
     Collections.sort(a);
     for(int i =0; i<a.size(); i++){
