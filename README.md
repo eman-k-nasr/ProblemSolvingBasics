@@ -39,3 +39,4 @@
 1. [circular rotation array](https://www.hackerrank.com/challenges/circular-array-rotation/problem)
 1. [sequence equation](https://www.hackerrank.com/challenges/permutation-equation/problem)
 1. [jumping clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem)
+1. [library fine](https://www.hackerrank.com/challenges/library-fine/problem)
