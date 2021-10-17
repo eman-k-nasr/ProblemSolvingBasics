@@ -40,3 +40,4 @@
 1. [sequence equation](https://www.hackerrank.com/challenges/permutation-equation/problem)
 1. [jumping clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem)
 1. [library fine](https://www.hackerrank.com/challenges/library-fine/problem)
+1. [find digits](https://www.hackerrank.com/challenges/find-digits/problem)
