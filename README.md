@@ -44,3 +44,4 @@
 1. [camel case](https://www.hackerrank.com/challenges/camelcase/problem)
 1. [append delete](https://www.hackerrank.com/challenges/append-and-delete/problem)
 1. [sherlock square](https://www.hackerrank.com/challenges/sherlock-and-squares/problem)
+1. [repeated string](https://www.hackerrank.com/challenges/repeated-string/problem)
