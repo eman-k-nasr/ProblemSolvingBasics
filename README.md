@@ -46,3 +46,4 @@
 1. [sherlock square](https://www.hackerrank.com/challenges/sherlock-and-squares/problem)
 1. [repeated string](https://www.hackerrank.com/challenges/repeated-string/problem)
 1. [jumping on the clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)
+1. [equalize the array](https://www.hackerrank.com/challenges/equality-in-a-array/problem)
